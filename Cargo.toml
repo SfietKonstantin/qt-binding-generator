@@ -1,0 +1,10 @@
+[package]
+name = "qt-binding-generator"
+version = "0.1.0"
+authors = ["Lucien XU <sfietkonstantin@free.fr>"]
+
+[dependencies]
+error-chain = "0.11"
+serde = "1.0"
+serde_derive = "1.0"
+serde_json = "1.0"
